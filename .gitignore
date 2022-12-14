@@ -1,0 +1,6 @@
+# gitignore file for given Java project
+*.bak
+*.iml
+.idea/
+.out/
+
